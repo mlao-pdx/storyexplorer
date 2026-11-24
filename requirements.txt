@@ -58,7 +58,7 @@ python-igraph==0.7.1.post6
 pytz==2016.6.1
 pyzmq==16.0.2
 qtconsole==4.2.1
-requests==2.5.3
+requests==2.33.0
 rsa==3.4.2
 scandir==1.5
 scikit-learn==0.17.1
